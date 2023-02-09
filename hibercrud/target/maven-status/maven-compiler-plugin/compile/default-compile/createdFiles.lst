@@ -1,0 +1,7 @@
+com\kgisl\hibercrud\Update.class
+com\kgisl\hibercrud\Retrieve.class
+com\kgisl\hibercrud\Student.class
+com\kgisl\hibercrud\Insert.class
+com\kgisl\hibercrud\SessionFactoryProvider.class
+com\kgisl\hibercrud\Delete.class
+com\kgisl\hibercrud\App.class
